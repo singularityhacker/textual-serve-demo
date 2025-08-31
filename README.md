@@ -4,7 +4,7 @@ This is a minimal reproduction of a Textual TUI deployment issue on Railway.com.
 
 ## The Problem
 
-The app works perfectly locally but shows only a splash screen when deployed to Railway.
+The app works perfectly locally but shows only a splash screen when deployed to hosting service. I tried Railway and Render.
 
 ## Files
 

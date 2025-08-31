@@ -6,6 +6,6 @@ server = Server(
     "python app.py", 
     port=port, 
     host="0.0.0.0",
-    public_url="https://textual-serve-demo-production.up.railway.app/"
+    public_url="https://textual-serve-demo-production.up.railway.app"
 )
 server.serve()

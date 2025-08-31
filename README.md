@@ -1,6 +1,6 @@
 # Minimal Textual-Serve Demo
 
-This is a minimal reproduction of a Textual TUI deployment issue on Railway.com.
+This is a minimal reproduction of a Textual TUI deployment issue attempting to use: https://github.com/Textualize/textual-serve 
 
 ## The Problem
 

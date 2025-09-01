@@ -83,4 +83,4 @@ The issue was resolved by setting the `public_url` parameter in the textual-serv
 1. **Containerized deployments** (Railway) require explicit `public_url` configuration for static assets
 2. **Native deployments** (Render) can handle static asset routing automatically
 3. **Separate server files** provide clean separation between platform configurations
-4. **Dependency management** in containers benefits from upgrading pip/setuptools/wheel
+4. **Dependency management** in containers benefits from upgrading pip/setuptools/wheel...
